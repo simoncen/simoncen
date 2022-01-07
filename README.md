@@ -1,6 +1,6 @@
 ### Hello there, I am Simon!👋🏼
 
-I am a Computer Engineering undergrad @UofT with experience being a part-time assistant at Microsoft.
+I am a Computer Engineering undergrad @UofT with experience being a part-time assistant at Microsoft and a frontend marketing developer intern at Coinsquare.
 
 - 🌱 I’m currently learning Cloud Computing and AI. I am really fascinated about the changes these two tools can bring to us. 
 
