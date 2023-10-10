@@ -1,8 +1,8 @@
 ### Hello there, I am Simon!👋🏼
 
-I am a Computer Engineering undergrad @UofT with experience being a part-time assistant at Microsoft and a frontend marketing developer intern at Coinsquare.
+I am a Computer Engineering undergrad @UofT and an upcoming Software Developer @RBC Capital Markets.
 
-- 🌱 I’m currently learning blockchain, cloud computing, and AI. I am really fascinated about the changes these two tools can bring to us. 
+- 🌱 I’m currently learning blockchain, cloud computing, and AI. I am really fascinated by the changes these two tools can bring to us. 
 
 - 📫 How to reach me: Email me at simoncen2@gmail.com! I'd love to chat.
 
